@@ -29,7 +29,7 @@ output
 300       // pixel size, which represents the size of each squares
 full-size // full-size or apsc
 1 0 1 0 1 // which part is drawn? 
-0 1 1 1 0 // 1 -> drawed / 0 -> not drawed
+0 1 1 1 0 // 1 -> drawn / 0 -> not drawn
 1 1 1 1 1
 0 1 1 1 0
 1 0 1 0 1
