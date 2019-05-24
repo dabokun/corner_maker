@@ -7,8 +7,13 @@ Suitably cut out the corners of images(mainly used for astrophotos).
 
 # Usage
 ```
-corner_maker [input_file_name] [config_file_name]
+$ corner_maker [input_file_name] [config_file_name]
 ```
+
+# How to Compile?
+I've used Visual Studio 2017 C++ Compiler on Windows and OpenCV 3.4.1.
+If you work on the similar environment, please open .sln file, and try to suit the OpenCV's dependencies to your system.
+If not, please refer to [corner_maker.cpp](corner_maker/corner_maker.cpp) and compile it on your own environments.
 
 # Example
 input
