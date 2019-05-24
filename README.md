@@ -11,7 +11,11 @@ corner_maker [input_file_name] [config_file_name]
 ```
 
 # Example
+input
+![](image/input.jpg)
 
+output
+![](image/output.jpg)
 
 # Requirements
 * [config file] 
